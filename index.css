@@ -1,0 +1,28 @@
+body{
+    color: black;
+    background-color: burlywood;
+    font-size: medium;
+
+}
+
+.field{
+width: 80%;
+padding-top: 10px;
+margin: 100px;
+height: 250px;
+background-color: #8fbb99;
+
+}
+
+
+.btn1{
+
+    padding:15px;
+    margin: 10px;
+}
+
+.btn1 .hover{
+    background-color: #031b08;
+    border: 1px;
+}
+
